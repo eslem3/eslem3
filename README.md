@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eslem3
+- 👋 Hi, I’m ESLEM ÖNEL
 - 👀 I am interested in software and data science.
 - && Python programming, SQL Server, Knime, Excel  
 - 📫  can reach me via  e-mail address eslemonel.25@gmail.com
