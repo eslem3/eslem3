@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @eslem3
-- 👀 I’m interested in software
-- &&   I'am learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
--  together we can learn
+- 👀 I am interested in software and data science.
+- && Python programming, SQL Server, Knime, Excel  
+- 📫  can reach me via  e-mail address eslemonel.25@gmail.com
+- - we can learn together💞️
 - 
-- <!---
-eslem3/eslem3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 
+eslem3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
